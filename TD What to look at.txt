@@ -1,0 +1,15 @@
+TD Games
+
+Towers
+- range
+- speed
+- power
+- level/upgrades
+- Location (Can’t place on roads)
+- Price/price to level
+
+Enemies
+- speed
+- health/hits to destroy
+- Money Rewarded
+
