@@ -7,6 +7,13 @@ Towers
 - level/upgrades
 - Location (Can’t place on roads)
 - Price/price to level
+- Manner of attack
+  - Can they shoot in any direction within range? (Cannon type thing)
+  - Can they do splash/chain damage?
+  - Do they do damage at all or do they slow/corrode enemies?
+  - Do they shoot projectiles?
+  - Can they move?
+  - Do they affect enemy at all? (Could be tower boosters, money farms)
 
 Enemies
 - speed
@@ -23,4 +30,4 @@ Overall Mechanics
 
 Game Features
 - Enemies hold other enemies (Bloons)
-- Enemies and towers have type effectiveness (Vector)
+- Enemies and towers have type effectiveness (Vector, Bloons to an extent)
