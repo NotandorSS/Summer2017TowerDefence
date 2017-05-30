@@ -13,3 +13,14 @@ Enemies
 - health/hits to destroy
 - Money Rewarded
 
+Overall Mechanics
+- Money
+- Life
+- Levels
+- Tower placement
+- Attack Waves
+- Tower upgrades
+
+Game Features
+- Enemies hold other enemies (Bloons)
+- Enemies and towers have type effectiveness (Vector)
