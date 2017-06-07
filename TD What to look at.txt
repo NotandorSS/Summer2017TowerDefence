@@ -31,3 +31,15 @@ Overall Mechanics
 Game Features
 - Enemies hold other enemies (Bloons)
 - Enemies and towers have type effectiveness (Vector, Bloons to an extent)
+
+
+6/7/17
+- Tile Based
+- Start Simple
+  - One wave with one enemy type
+  - One tower that we can upgrade
+  - Board Class containing overall wealth and life, one map type
+  
+Future Thoughts
+- Tower and enemy enums as a possibility
+  
