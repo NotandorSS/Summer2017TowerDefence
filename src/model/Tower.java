@@ -1,5 +1,7 @@
 package model;
 
-public class Tower {
+import enums.TOWER;
 
+public class Tower extends Construct{
+	TOWER type;
 }

@@ -1,5 +1,7 @@
 package model;
 
-public class Enemy {
+import enums.ENEMY;
 
+public class Enemy extends Construct {
+	ENEMY type;
 }
