@@ -10,7 +10,7 @@ public class Board {
 	//board has levels, which have enemies.
 	//board has path, where enemies travel and towers can't be placed
 	ArrayList <Tower> towers = new ArrayList<Tower>();
-	
+	Path path = new Path();
 	
 	//TODO: constructor - parameter of path? path maybe an enum?
 	
@@ -43,6 +43,6 @@ public class Board {
 			}
 		}
 		//TODO: check path
-		return false;
+		return path.intersects(r);
 	}
 }
