@@ -37,7 +37,12 @@ public class Board {
 	 * @return true if there's an intersection, false if not
 	 */
 	private boolean intersects(Rectangle r){
-		
+		for (Tower t: towers){
+			if (r.intersects(t.bounds)){
+				return true;
+			}
+		}
+		//TODO: check path
 		return false;
 	}
 }
